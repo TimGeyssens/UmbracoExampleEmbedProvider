@@ -1,0 +1,1 @@
+Shows how you can write a custom provider to support additional third party services in the Umbraco rte (when the service doesn't support oembed). 
